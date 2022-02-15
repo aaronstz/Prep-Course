@@ -1,0 +1,7 @@
+for: mientras que se cumpla tal condición se va a ejecutar un código
+
+&&: significa "y", devuelve un verdadero si las expresiones dentro de las parentesis son verdaderas
+
+||: significa "o", devuelve verdadero si una expresion o la otra es verdadera.
+
+!: significa "no", devuelve lo opuesto a lo que esté adelante.

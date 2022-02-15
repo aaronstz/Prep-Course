@@ -1,0 +1,12 @@
+°Variables: Una variable es una forma de dar y guardarle valor a algo que vamos a usar más adelante.
+
+°Strings: Texto que está entre comillas.
+
+°Funciones (argumentos, return): Son objetos que se invocan para que los podamos usar.
+Argumentos: Son variables que van entre paréntesis después de la función para que se puedan usar en la misma.
+Return: Es una declaración que devuelve lo que se le pide y detiene lo que estaba haciendo antes.
+
+°Declaraciones (if): Son instrucciones para que la computadora haga algo, en este caso declarar variables o funciones.
+El "if" se usa cuando queremos que nuestra función ejecute un código dependiendo de si una declaración es verdadera o falsa.
+
+°Valores booleanos (true, false): Se le hace una  a la consola y esta dice si es verdadera o es falsa.

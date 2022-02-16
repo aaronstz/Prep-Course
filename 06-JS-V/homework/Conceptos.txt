@@ -1,0 +1,5 @@
+Prototype: Todos los objetos de javascript hacen referencia a su prototipo. Se usan para
+establecer un método una vez y permitir a cada objeto de esa clase acceder a esos métodos.
+
+_Constructors_ (de Clases) : Es un método especial de clases que sirve para crear una instancia
+de objeto en esa clase.

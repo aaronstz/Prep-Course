@@ -1,0 +1,12 @@
+Objetos: Los objetos son parecidos a los arrays solo que en vez de guardar elementos
+relacionados unos con otros, guardan información sobre una sola cosa.
+
+Propiedades: Una propiedad cuando existe una relación entre un nombre (key) y un valor.
+
+Métodos: Es cuando la propiedad tiene un valor de función.
+
+Bucle 'for...in': Un bucle se usa cuando queremos realizar una misma acción varias veces
+en cada clave-valor que haya en nuestro objeto.
+
+Notacion de puntos vs notacion de corchetes: La diferencia entre estas es que la notacion de corchetes
+nos permite acceder a las propiedades del objeto usando variables.

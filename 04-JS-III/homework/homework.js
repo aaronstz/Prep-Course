@@ -59,10 +59,17 @@ function dePalabrasAFrase(palabras) {
   // "palabras" es un array de strings/cadenas
   // Devuelve un string donde todas las palabras estén concatenadas
   // con espacios entre cada palabra
-  // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
+  // Ejemplo: ['Hello', 'world!', ] -> 'Hello world!'
   // Tu código:
-  return palabras.join(' ');
-}
+  var palabra = '';
+  for(let i = 0; i < palabras.length; i++) { 
+    if(i !== palabras.length -1) {
+      palabra += palabras[i] + ' ';
+    }
+    else palabra += palabras[i]
+  }
+  return palabra;
+ }
 
 
 function arrayContiene(array, elemento) {
@@ -155,7 +162,7 @@ function empiezaConNueve(n) {
   let num = n.toString()
   if(num.charAt(0) === "9"){
     return true;
-  }
+  } 
   return false;
 }
 
@@ -242,7 +249,7 @@ function continueStatement(numero) {
   // Tu código:
   var array = []
   var suma = numero;
-  for(var i = 0; i < 10; i++) {
+  for(var i = 0; i < 10; i = i + 1 ) {
     if(i === 5) continue; 
   else {
     suma = suma + 2;

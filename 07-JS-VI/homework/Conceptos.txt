@@ -1,0 +1,2 @@
+Funciones Callbacks:
+Los callbacks se usan para pasar una función como argumento para otra función.

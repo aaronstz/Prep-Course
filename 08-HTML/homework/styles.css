@@ -4,6 +4,13 @@ body {
   background-size: 100rem; 
 }
 
+            #divTextos {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+
+
             #thirdDiv {
               height: 600px;
               width: 500px ;
@@ -16,6 +23,11 @@ body {
             #spanId {
                 font-size: 18px;
                 margin: 50px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
             }
+
+
 
             
